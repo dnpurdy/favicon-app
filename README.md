@@ -1,5 +1,5 @@
-#Favicon Application - Submission
-###Author: David Purdy (resume@davidpurdy.net)
+# Favicon Application - Submission
+### Author: David Purdy (resume@davidpurdy.net)
 
 ## Online Instance
 
